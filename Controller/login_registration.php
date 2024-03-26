@@ -18,7 +18,7 @@ switch ($act) {
 
         if (isset($_POST['submit'])) {
             $tenkh = $_POST['txtname'];
-            $dc = $_POST['xtxtdiachi'];
+            $dc = $_POST['txtdiachi'];
             $sdt = $_POST['txtsdt'];
             $user = $_POST['txtusername'];
             $email = $_POST['txtemail'];

@@ -208,7 +208,7 @@ $curent_page = isset($_GET['page']) ? $_GET['page'] : 1;
 								</a>
 							</h3><!-- End .widget-title -->
 
-							<div class="collapse show" id="widget-1">
+							<div class="collapse" id="widget-1">
 								<div class="widget-body">
 									<div class="filter-items filter-items-count">
 										<div class="filter-item">
@@ -286,7 +286,7 @@ $curent_page = isset($_GET['page']) ? $_GET['page'] : 1;
 								</a>
 							</h3><!-- End .widget-title -->
 
-							<div class="collapse show" id="widget-2">
+							<div class="collapse" id="widget-2">
 								<div class="widget-body">
 									<div class="filter-items">
 										<div class="filter-item">
@@ -342,7 +342,7 @@ $curent_page = isset($_GET['page']) ? $_GET['page'] : 1;
 								</a>
 							</h3><!-- End .widget-title -->
 
-							<div class="collapse show" id="widget-3">
+							<div class="collapse" id="widget-3">
 								<div class="widget-body">
 									<div class="filter-colors">
 										<a href="#" style="background: #b87145;"><span class="sr-only">Color Name</span></a>
@@ -365,7 +365,7 @@ $curent_page = isset($_GET['page']) ? $_GET['page'] : 1;
 								</a>
 							</h3><!-- End .widget-title -->
 
-							<div class="collapse show" id="widget-4">
+							<div class="collapse" id="widget-4">
 								<div class="widget-body">
 									<div class="filter-items">
 										<div class="filter-item">
@@ -429,7 +429,7 @@ $curent_page = isset($_GET['page']) ? $_GET['page'] : 1;
 								</a>
 							</h3><!-- End .widget-title -->
 
-							<div class="collapse show" id="widget-5">
+							<div class="collapse" id="widget-5">
 								<div class="widget-body">
 									<div class="filter-price">
 										<div class="filter-price-text">
